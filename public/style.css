@@ -1,0 +1,21 @@
+body{
+    padding: 30px;
+    background:#A2ADD0;
+}
+.table{
+    background: white;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
